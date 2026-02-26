@@ -3,3 +3,9 @@ node_modules/
 
 # SST
 .sst/
+
+# Next.js
+packages/web/.next/
+packages/web/public/sw.js
+packages/web/public/workbox-*.js
+packages/web/next-env.d.ts
