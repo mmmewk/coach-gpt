@@ -1,0 +1,16 @@
+{
+  "name": "coach-gpt",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "sst dev",
+    "deploy": "sst deploy",
+    "remove": "sst remove"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  },
+  "dependencies": {
+    "sst": "^4.0.7"
+  }
+}
