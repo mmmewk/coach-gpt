@@ -1,6 +1,8 @@
 # coach-gpt
 Interface with LLMs that tracks your workout history & goals, and gives you personalized workout recommendations
 
+**Live:** [https://coach-gpt.mekoppe.com](https://coach-gpt.mekoppe.com)
+
 ## Development
 
 ### Prerequisites

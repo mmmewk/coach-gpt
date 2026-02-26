@@ -12,6 +12,7 @@ export default $config({
   async run() {
     new sst.aws.Nextjs("Web", {
       path: "packages/web",
+      domain: $app.stage === "production" ? "coach-gpt.mekoppe.com" : undefined,
     });
   },
 });
